@@ -1,1 +1,20 @@
-[{"id":"1319","titulo":"el aval","artista":"los tres","tono":"red"}]
+[
+  {
+    "id": "1319",
+    "titulo": "el aval",
+    "artista": "los tres",
+    "tono": "red"
+  },
+  {
+    "id": "3702",
+    "titulo": "la torre de babel",
+    "artista": "los tres ",
+    "tono": "fa mayor"
+  },
+  {
+    "id": 6077,
+    "titulo": "traje de sastre",
+    "artista": "los tres",
+    "tono": "re"
+  }
+]

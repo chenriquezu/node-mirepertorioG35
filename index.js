@@ -4,7 +4,7 @@ const path = require('path');
 const PORT = 3000;
 
 //importaciones para callback
-const{home,leerCanciones,insertarCancion,BorrarCancion,editarCancion} = require('./src/controllers/functiones');
+const{home,leerCanciones,insertarCancion,BorrarCancion,editarCancion} = require('./src/controllers/component');
 
 //se define  carpeta public
 app.use(express.static('public'));
